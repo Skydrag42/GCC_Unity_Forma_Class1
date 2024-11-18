@@ -304,5 +304,7 @@ For example, you could make a level where we have to jump from box to box in ord
 Bye!
 
 
-
+---
 *course by Julien Charvet for GCC*
+
+[next class](https://github.com/Skydrag42/GCC_Unity_Forma_Class2)
