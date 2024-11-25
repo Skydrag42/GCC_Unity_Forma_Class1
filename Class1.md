@@ -5,6 +5,7 @@ In this first class, you'll learn the following:
 - create an object
 - add components to an object
 - modify properties of an object / its components
+- create and use prefabs
 - retrieve user inputs
 - understand basic principles of the physics system (colliders, rigidbodies)
 
